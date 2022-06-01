@@ -32,3 +32,12 @@ exports.globals = {
     trim: true,
   },
 };
+
+exports.colors = {
+  // navbar: "#000",
+};
+
+exports.fonts = {
+  // sans: "#000",
+  // serif: "#000",
+};
